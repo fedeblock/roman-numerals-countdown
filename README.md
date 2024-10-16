@@ -44,7 +44,7 @@ This countdown can be used in a variety of settings, such as:
 
 ![Screenshot](screenshot.png)
 
-The above screenshot demonstrates the Roman Numerals Countdown in action, featuring the fantasy-inspired title and elegant gradient background.
+The above screenshot demonstrates the Roman Numerals Countdown in action.
 
 ## License
 
